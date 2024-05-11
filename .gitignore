@@ -1,0 +1,11 @@
+*.pyc
+*.tmp
+/.cache/
+/.history/
+/.vscode/
+markdown.md
+.DS_Store
+.cache
+/__pycache__/
+log/*
+._*
