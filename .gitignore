@@ -9,3 +9,5 @@ markdown.md
 /__pycache__/
 log/*
 ._*
+log/*
+data/*
