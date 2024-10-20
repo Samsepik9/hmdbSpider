@@ -7,8 +7,9 @@
 
 其他自动化数据处理脚本也放到这个项目中
 
-1.本程序用于爬取并比对QI和hmdb数据库中的数据，筛选需要的数据。(hmdb_spider.py)
-2.pubmed文献爬取。(pubmed_spider.py)
+1. 本程序用于爬取并比对QI和hmdb数据库中的数据，筛选需要的数据。(hmdb_spider.py)
+
+2. pubmed文献爬取。(pubmed_spider.py)
 
 
 ---
