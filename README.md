@@ -5,7 +5,6 @@
 
 ## 0x01 简介
 
-*** FOR MY GIRL CHAOCHAO~ ***
 其他自动化数据处理脚本也放到这个项目中
 
 1.本程序用于爬取并比对QI和hmdb数据库中的数据，筛选需要的数据。(hmdb_spider.py)
